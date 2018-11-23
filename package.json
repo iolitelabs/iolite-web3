@@ -1,13 +1,20 @@
 {
   "name": "iolite-web3",
-  "version": "1.0.0",
-  "description": "",
+  "namespace": "ethereum",
+  "version": "0.2.0",
+  "description": "iOlite JavaScript API wrapper repository",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "Ethereum",
+    "JavaScript",
+    "API",
+    "iolite"
+  ],
+  "author": "iolite.io",
+  "license": "MIT",
   "dependencies": {
     "web3": "^1.0.0-beta.34"
   }
